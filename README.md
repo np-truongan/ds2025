@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Phham Truong An
+* Student Name: Nguyen Pham Truong An
 * Student ID: 23BI14004
 * Student Group ID: TBA
